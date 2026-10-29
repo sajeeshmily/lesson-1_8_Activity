@@ -1,0 +1,7 @@
+Algorithm: Add Two Numbers
+1. Start.
+2. Read the first number, A.
+3. Read the second number, B.
+4. Calculate Sum = A + B.
+5. Display the sum.
+6. Stop.
